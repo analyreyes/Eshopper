@@ -34,7 +34,7 @@
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
 								<li><a href="#"><i class="fa fa-phone"></i> +52 671 767 6346</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> Alejandrobriava26_15@outlook.com</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> analyreyes405@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>					
@@ -239,7 +239,7 @@
 									</tr>
 									<tr>
 										<td>Total</td>
-										<td><span><?php echo "$ " . $total + ($total * .16); ?></span></td>
+										<td><span><?php echo "$ " . $total +($total * .16); ?></span></td>
 									</tr>
 								</table>
 							</td>
@@ -254,6 +254,8 @@
 					<span>
 						<label><input type="checkbox"> Paypal</label>
 					</span>
+					<a class="btn btn-primary" href="fpdf/ticket.php" target="_blank">Pagar</a>
+
 				</div>
 		</div>
 	</section> <!--/#cart_items-->
