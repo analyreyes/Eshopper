@@ -65,7 +65,7 @@
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
 								<li><a href="#"><i class="fa fa-phone"></i> +52 618 132 8872</a></li>
-							<font color="purple">
+							<font color="blue">
               <li> Usuario: <?php echo $usuario; ?></li>
               <li> Correo <i class="fa fa-envelope"></i>:<?php echo $email; ?></li>
               </font>
@@ -89,7 +89,7 @@
 					</div>
 					<H3>SOFTWARE PUNTO DE VENTA</H3>
 					<div class="col-sm-8">
-						Por:analy reyes
+						Por:Analy Reyes 
 						<div class="shop-menu pull-right">
 							<ul class="nav navbar-nav">
 								<li><a href="agregarproductos.php" target="_blank"><i class="fa fa-plus"></i>Agregar</a></li>
